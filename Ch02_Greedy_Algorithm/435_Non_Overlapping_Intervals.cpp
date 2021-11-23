@@ -1,6 +1,6 @@
 /**
  * 2.3 区间问题1
- * 135. Candy(Hard)
+ * 435. Non-overlapping Intervals(Hard)
  * 
  * Given an array of intervals intervals where intervals[i] = [start_i, end_i], 
  * return the minimum number of intervals you need to remove to make the rest of the intervals non-overlapping.
@@ -15,7 +15,7 @@
  * Explanation: You don't need to remove any of the intervals since they're already non-overlapping.
  * 
  * Constraints:
- *  * 1 <= intervals.length <= 105
+ *  * 1 <= intervals.length <= 10^5
  *  * intervals[i].length == 2
  *  * -5 * 10^4 <= starti < endi <= 5 * 10^4
  */
