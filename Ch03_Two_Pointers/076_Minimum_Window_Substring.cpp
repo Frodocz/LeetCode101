@@ -25,7 +25,6 @@
  *  * 1 <= m, n <= 10^5
  *  * s and t consist of uppercase and lowercase English letters.
  * 
- * Could you find an algorithm that runs in O(m + n) time?
  */
 
 #include <bits/stdc++.h>
